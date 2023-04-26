@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Proyecto_F
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+
+        }
+
+        int a = 0;
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            timer1.Start();
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            a = a + 4;
+            label1.Text = a.ToString();
+            progressBar1.Value = a;
+            if (a == 100)
+            {
+                timer1.Stop();
+                this.Hide();
+
+
+                login form1 = new login();
+                form1.ShowDialog();
+            }
+        }
+    }
+}

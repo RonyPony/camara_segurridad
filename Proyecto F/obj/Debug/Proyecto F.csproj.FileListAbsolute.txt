@@ -1,0 +1,198 @@
+c:\users\death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe.config
+c:\users\death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe
+c:\users\death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\bin\Debug\Proyecto F.pdb
+c:\users\death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csprojResolveAssemblyReference.cache
+c:\users\death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Form1.resources
+c:\users\death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Properties.Resources.resources
+c:\users\death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csproj.GenerateResource.Cache
+c:\users\death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto F.exe
+c:\users\death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto F.pdb
+c:\users\death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Frm_Menu.resources
+c:\users\death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.login.resources
+C:\Users\Death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_usuario.resources
+C:\Users\Death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_usuario.resources
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csprojResolveAssemblyReference.cache
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_usuario.resources
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Clientes.resources
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_usuario.resources
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Empleados.resources
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Form1.resources
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Frm_Menu.resources
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.login.resources
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Properties.Resources.resources
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Suplidores.resources
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csproj.GenerateResource.Cache
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csproj.CoreCompileInputs.cache
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto F.exe
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto F.pdb
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe.config
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe
+C:\Users\Rony Cruz\Desktop\Proyecto F\Proyecto F\bin\Debug\Proyecto F.pdb
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\bin\Debug\Proyecto F.exe.config
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\obj\Debug\Proyecto F.exe
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\obj\Debug\Proyecto F.pdb
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\bin\Debug\Proyecto F.exe
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\bin\Debug\Proyecto F.pdb
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\obj\Debug\Proyecto F.csprojResolveAssemblyReference.cache
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\obj\Debug\Proyecto_F.Cap_usuario.resources
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\obj\Debug\Proyecto_F.Clientes.resources
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\obj\Debug\Proyecto_F.Consulta_usuario.resources
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\obj\Debug\Proyecto_F.Empleados.resources
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\obj\Debug\Proyecto_F.Form1.resources
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\obj\Debug\Proyecto_F.Frm_Menu.resources
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\obj\Debug\Proyecto_F.login.resources
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\obj\Debug\Proyecto_F.Properties.Resources.resources
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\obj\Debug\Proyecto_F.Suplidores.resources
+C:\Users\Death\Desktop\Proyecto F WRK\Proyecto F\obj\Debug\Proyecto F.csproj.GenerateResource.Cache
+C:\Users\Death\Documents\Visual Studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_clientes.resources
+C:\Users\Death\Documents\Visual Studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_Empleados.resources
+C:\Users\Death\Documents\Visual Studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_suplidores.resources
+C:\Users\Death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_clientes.resources
+C:\Users\Death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_empleados.resources
+C:\Users\Death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_suplidores.resources
+C:\Users\Death\Documents\Visual Studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Inventario.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\bin\Debug\Proyecto F.exe.config
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto F.exe
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto F.pdb
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\bin\Debug\Proyecto F.exe
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\bin\Debug\Proyecto F.pdb
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto F.csprojResolveAssemblyReference.cache
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.Cap_usuario.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.Cap_clientes.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.Factura_clientes.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.Inventario.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.Consulta_suplidores.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.Consulta_empleados.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.Consulta_clientes.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.Consulta_usuario.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.Cap_empleados.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.Form1.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.Frm_Menu.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.login.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.Properties.Resources.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto_F.Cap_suplidores.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado\Proyecto F\obj\Debug\Proyecto F.csproj.GenerateResource.Cache
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\bin\Debug\Proyecto F.exe.config
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto F.exe
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto F.pdb
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\bin\Debug\Proyecto F.exe
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\bin\Debug\Proyecto F.pdb
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto F.csprojResolveAssemblyReference.cache
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.Cap_usuario.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.Cap_clientes.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.Factura_clientes.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.Inventario.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.Consulta_suplidores.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.Consulta_empleados.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.Consulta_clientes.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.Consulta_usuario.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.Cap_empleados.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.Form1.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.Frm_Menu.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.login.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.Properties.Resources.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto_F.Cap_suplidores.resources
+C:\Users\Death\Desktop\Proyecto F Arreglado - Copy\Proyecto F\obj\Debug\Proyecto F.csproj.GenerateResource.Cache
+C:\Users\Death\Documents\Visual Studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Factura_clientes.resources
+C:\Users\Death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Compra_suplidores.resources
+D:\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe.config
+D:\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe
+D:\Proyecto F\Proyecto F\bin\Debug\Proyecto F.pdb
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csprojResolveAssemblyReference.cache
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_usuario.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_clientes.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Compra_suplidores.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Factura_clientes.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Inventario.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_suplidores.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_empleados.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_clientes.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_usuario.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_empleados.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Form1.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Frm_Menu.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.login.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Properties.Resources.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_suplidores.resources
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csproj.GenerateResource.Cache
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csproj.CoreCompileInputs.cache
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto F.exe
+D:\Proyecto F\Proyecto F\obj\Debug\Proyecto F.pdb
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe.config
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto F.exe
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto F.pdb
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\bin\Debug\Proyecto F.pdb
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csprojResolveAssemblyReference.cache
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_usuario.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_clientes.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Compra_suplidores.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Factura_clientes.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Inventario.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_suplidores.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_empleados.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_clientes.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_usuario.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_empleados.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Form1.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Frm_Menu.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.login.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Properties.Resources.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_suplidores.resources
+C:\Users\Death\Desktop\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csproj.GenerateResource.Cache
+C:\Users\Death\documents\visual studio 2015\Projects\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Compromiso_instalacion.resources
+C:\Users\Death\Desktop\Proyecto F con backup y toh\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe.config
+C:\Users\Death\Desktop\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto F.exe
+C:\Users\Death\Desktop\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto F.pdb
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe.config
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\bin\Debug\Proyecto F.pdb
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csprojResolveAssemblyReference.cache
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_usuario.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_clientes.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Compra_suplidores.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Compromiso_instalacion.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Factura_clientes.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Inventario.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_suplidores.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_empleados.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_clientes.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_usuario.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_empleados.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Form1.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Frm_Menu.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.login.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Properties.Resources.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_suplidores.resources
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csproj.GenerateResource.Cache
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csproj.CoreCompileInputs.cache
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto F.exe
+D:\Proyecto F con backup y toh\Proyecto F\Proyecto F\obj\Debug\Proyecto F.pdb
+E:\jardiel\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe.config
+E:\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto F.exe
+E:\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto F.pdb
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe.config
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\bin\Debug\Proyecto F.exe
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\bin\Debug\Proyecto F.pdb
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csproj.AssemblyReference.cache
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csproj.SuggestedBindingRedirects.cache
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_usuario.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_clientes.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Compra_suplidores.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Compromiso_instalacion.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Factura_clientes.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Inventario.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_suplidores.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_empleados.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_clientes.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Consulta_usuario.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_empleados.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Form1.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Frm_Menu.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.login.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Properties.Resources.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto_F.Cap_suplidores.resources
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csproj.GenerateResource.cache
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto F.csproj.CoreCompileInputs.cache
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto F.exe
+E:\proyectos de programacion\jardiel\Proyecto F\Proyecto F\obj\Debug\Proyecto F.pdb
